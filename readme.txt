@@ -27,7 +27,7 @@ This plugin helps you to generate yours.
 
 Note: oik-tos is dependent upon the oik plugin. You can activate it but it will not work unless oik is also activated.
 Download oik from 
-[oik download](http://wordpress.org/extend/plugins/oik/)
+[oik download](https://wordpress.org/plugins/oik/)
 
 == Frequently Asked Questions ==  
 = What does this plugin do? =
@@ -42,13 +42,11 @@ If you chose to retain the shortcodes in the sample text then you will still nee
 = From where did you get the Terms of Service text? =
 The text was extracted from a Word document downloaded from the NI Business Info website at
 
-http://nibusinessinfo.co.uk/content/sample-website-usage-terms-and-conditions
+https://www.nibusinessinfo.co.uk/content/sample-website-terms-and-conditions-use
 
-http://www.nibusinessinfo.co.uk/Growth_and_Innovation_files/Sample_terms_and_conditions_of_website_usage5.doc
+https://www.nibusinessinfo.co.uk/downloads/sample-terms-and-conditions-website-usage.doc
 
-This document is a more recent version of a document from UK Business link
-
-http://www.businesslink.gov.uk/Growth_and_Innovation_files/Sample_doc_terms_and_conditions_of_website_usage.doc
+This document was a more recent version of a document from UK Business link.
 
 
 = Is it OK to use this text? =
@@ -59,10 +57,11 @@ No. Use the [oik-privacy-policy plugin](https://wordpress.org/plugins/oik-privac
 
 = Where can I find more information? = 
 If you are in the Northern Ireland then see 
-[Northern Irelance Business Info sample IT policies, disclaimers and notices](http://nibusinessinfo.co.uk/content/sample-tos)
-The documents stored on this site appear to be updated versions of those which were on the UK business link website in 2011/2012.
+[Northern Irelance Business Info sample IT policies, disclaimers and notices](https://www.nibusinessinfo.co.uk/content/sample-it-policies-disclaimers-and-notices)
+The documents stored on this site are updated versions of those which were on the UK business link website in 2011/2012.
 
 == Screenshots ==
+None
 
 == Upgrade Notice ==
 = 0.2.0 = 

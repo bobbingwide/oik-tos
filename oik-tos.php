@@ -2,11 +2,11 @@
 /**
 Plugin Name: oik-tos
 Depends: oik base plugin
-Plugin URI: http://www.oik-plugins.com/oik-plugins/oik-tos
+Plugin URI: https://oik-plugins.com/oik-plugins/oik-tos
 Description: Generate a Terms of service or Terms and Conditions page for use on your website
 Version: 0.2.0
 Author: bobbingwide
-Author URI: http://www.bobbingwide.com/about-bobbing-wide
+Author URI: https://bobbingwide.com/about-bobbing-wide
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -48,7 +48,3 @@ function oik_tos_activation() {
   $depends = "oik:2.0.1";
   oik_plugin_lazy_activation( __FILE__, $depends, "oik_plugin_plugin_inactive" );
 }
-
-
-
-
