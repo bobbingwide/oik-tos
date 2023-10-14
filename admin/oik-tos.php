@@ -1,4 +1,4 @@
-<?php // (C) Copyright Bobbing Wide 2013
+<?php // (C) Copyright Bobbing Wide 2013, 2023
 
 /** 
  * Define the admin options for oik Terms of Service
@@ -83,7 +83,7 @@ function oik_tos_options() {
  */
 if ( !function_exists( "oik_tos_build_content" ) ) {
 function oik_tos_build_content( $array, $index ) {
-  $cb = bw_array_get( $array, "${index}_cb", false );
+  $cb = bw_array_get( $array, "{$index}_cb", false );
   if ( $cb ) 
     $text = bw_array_get( $array, $index, null );
   else

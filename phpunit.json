@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="" tests="2" assertions="2" errors="0" warnings="0" failures="0" skipped="0" time="0.080997">
+    <testsuite name="oik-tos" tests="2" assertions="2" errors="0" warnings="0" failures="0" skipped="0" time="0.080997">
+      <testsuite name="Tests_load_php" file="C:\apache\htdocs\wordpress\wp-content\plugins\oik-tos\tests\test-a-load-php.php" tests="2" assertions="2" errors="0" warnings="0" failures="0" skipped="0" time="0.080997">
+        <testcase name="test_load_admin_php" class="Tests_load_php" classname="Tests_load_php" file="C:\apache\htdocs\wordpress\wp-content\plugins\oik-tos\tests\test-a-load-php.php" line="22" assertions="1" time="0.065581"/>
+        <testcase name="test_load_plugin" class="Tests_load_php" classname="Tests_load_php" file="C:\apache\htdocs\wordpress\wp-content\plugins\oik-tos\tests\test-a-load-php.php" line="29" assertions="1" time="0.015416"/>
+      </testsuite>
+    </testsuite>
+  </testsuite>
+</testsuites>
