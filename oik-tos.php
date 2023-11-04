@@ -4,7 +4,7 @@ Plugin Name: oik-tos
 Depends: oik base plugin
 Plugin URI: https://oik-plugins.com/oik-plugins/oik-tos
 Description: Generate a Terms of service or Terms and Conditions page for use on your website
-Version: 0.2.0
+Version: 0.2.1
 Author: bobbingwide
 Author URI: https://bobbingwide.com/about-bobbing-wide
 License: GPLv2 or later

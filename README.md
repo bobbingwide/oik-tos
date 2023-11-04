@@ -4,8 +4,8 @@
 * Donate link: https://www.oik-plugins.com/oik/oik-donate/
 * Tags: TOS, Terms, Terms of Service, T's and C's, Terms and Conditions, oik
 * Requires at least: 3.0.4
-* Tested up to: 6.4-beta3
-* Stable tag: 0.2.0
+* Tested up to: 6.4-RC3
+* Stable tag: 0.2.1
 * License: GPLv2 or later
 * License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -65,6 +65,9 @@ The documents stored on this site are updated versions of those which were on th
 None
 
 ## Upgrade Notice 
+# 0.2.1 
+Update for PHP 8.1 and PHP 8.2 support.
+
 # 0.2.0 
 Upgrade for PHP 8.1 and PHP 8.2 support
 
@@ -72,6 +75,12 @@ Upgrade for PHP 8.1 and PHP 8.2 support
 * Depends upon oik version 2.0.1 or higher.
 
 ## Changelog 
+# 0.2.1 
+* Changed: Support PHP 8.1 and PHP 8.2 #1
+* Tested: With WordPress 6.4-RC3 and WordPress Multisite
+* Tested: With PHP 8.1 and PHP 8.2
+* Tested: With PHPUnit 9.6
+
 # 0.2.0 
 * Changed: Support PHP 8.1 and PHP 8.2 #1
 * Tested: With WordPress 6.4-beta3 and WordPress Multisite
@@ -84,6 +93,3 @@ Upgrade for PHP 8.1 and PHP 8.2 support
 ## Further reading 
 If you want to read more about the oik plugins and themes then please visit
 [oik-plugins](https://www.oik-plugins.com/)
-
-
-
