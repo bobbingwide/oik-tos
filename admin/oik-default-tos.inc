@@ -68,10 +68,10 @@ function oik_default_tos() {
   $text['payment'] .= __( "If no payment is received, no items will be shipped. ", "oik-tos" );
 
   $text['shipping']  = __( "<h3>Shipping Policies</h3>", "oik-tos" );
-  $text['shipping-payment'] .= __( "Shipping will be paid for by the buyer in the amount agreed upon by the seller at the time of purchase. ", "oik-tos" );
-  $text['shipping-loss'] .= __( "If an item is lost during shipping, the total cost of item, including shipping, will be refunded to the buyer by the seller. ", "oik-tos" );
-  $text['shipping-international'] .= __( "Shipping costs may double if shipping internationally. ", "oik-tos" );
-  $text['shipping-damage'] .= __( "If an item is damaged during shipping, seller will not be held responsible. ", "oik-tos" );
+  $text['shipping-payment'] = __( "Shipping will be paid for by the buyer in the amount agreed upon by the seller at the time of purchase. ", "oik-tos" );
+  $text['shipping-loss'] = __( "If an item is lost during shipping, the total cost of item, including shipping, will be refunded to the buyer by the seller. ", "oik-tos" );
+  $text['shipping-international'] = __( "Shipping costs may double if shipping internationally. ", "oik-tos" );
+  $text['shipping-damage'] = __( "If an item is damaged during shipping, seller will not be held responsible. ", "oik-tos" );
   
   /* 
 

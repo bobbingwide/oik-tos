@@ -135,7 +135,7 @@ function oik_tos_reset_form() {
  * Terms of service select menu
  */
 function oik_tos_select_menu() { 
-  oik_require( "bw_metadata.inc" );
+  oik_require( "includes/bw_metadata.php" );
   $menus = wp_get_nav_menus( $args = array() );
   $terms = bw_term_array( $menus );
   $terms[0] = "none";
@@ -218,7 +218,7 @@ function _bw_create_page( $page, $post_type="page", $content=null ) {
  * 
  */
 function oik_tos_menu_selector() {
-  oik_require( "bw_metadata.inc" );
+  oik_require( "includes/bw_metadata.php" );
   $menus = wp_get_nav_menus( $args = array() );
   $terms = bw_term_array( $menus );
   $terms[0] = "none";
